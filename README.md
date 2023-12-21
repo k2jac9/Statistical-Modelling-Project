@@ -2,6 +2,7 @@
 
 ## Project/Goals
 - **Objective:** 
+
 Create an app that is powered by an statiscal model across different regions.
 Provide valuable insights into bike-sharing and points of interest data. It involves data retrieval, analysis, visualization, and modeling.
 
