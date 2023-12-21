@@ -51,7 +51,7 @@ Provide valuable insights into bike-sharing and points of interest data. It invo
 ![1](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/1c03a309-1e5d-4757-945a-7acbe0dc8e64)
 ![2](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/46843650-aad5-4d15-bcfb-ddaac23f9ef2)
 ![3](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/7fa0c4b0-1440-4d9b-8569-0dd6cce16bee)
-![4](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/d6beceaa-122e-45d6-b336-6ff8186443ba)
+![4](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/0a51b7cb-1776-43d2-9ef6-1026f8a8f209)
 ![5](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/cb8018ab-9f24-420c-823d-2c8b3b6f0515)
 ![6](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/f654b9f9-e274-4ea0-b341-94ddc96845e8)
 ![7](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/888492b6-f2a1-47e0-8621-63158d8c1cc0)
