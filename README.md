@@ -2,9 +2,10 @@
 
 ## Project/Goals
 - **Objective:** 
-Create an app that is powered by an statiscal model to determine the quality of API coverage across different regions.
+Create an app that is powered by an statiscal model across different regions.
+Provide valuable insights into bike-sharing and points of interest data. It involves data retrieval, analysis, visualization, and modeling.
 
-- **Goals:** 
+- **Goals:**
    1. Determine key metrics for assessing API quality.
    2. Collect and preprocess data from various APIs.
    3. Apply statistical models to analyze data.
@@ -44,3 +45,26 @@ Create an app that is powered by an statiscal model to determine the quality of 
 - **Enhancements:** With more time, I would explore advanced modeling techniques like machine learning to predict API quality.
 - **Expansion:** Expand the study to include more regions or different types of APIs.
 - **Automation:** Develop an automated system for continuous monitoring and analysis of API quality.
+
+### Presentation
+![1](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/1c03a309-1e5d-4757-945a-7acbe0dc8e64)
+![2](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/b2f7402b-6c5b-43b7-b888-8730fa80a2b4)
+![3](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/7fa0c4b0-1440-4d9b-8569-0dd6cce16bee)
+![4](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/d6beceaa-122e-45d6-b336-6ff8186443ba)
+![5](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/cb8018ab-9f24-420c-823d-2c8b3b6f0515)
+![6](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/f654b9f9-e274-4ea0-b341-94ddc96845e8)
+![7](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/888492b6-f2a1-47e0-8621-63158d8c1cc0)
+![8](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/079ed144-1a7d-47e0-9b66-035868cb8e80)
+
+
+
+
+
+
+
+
+
+
+
+
+
