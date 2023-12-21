@@ -1,7 +1,9 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-- **Objective:** To analyze and compare the quality of API coverage in different regions using statistical modeling in Python.
+- **Objective:** 
+Create an app that is powered by an statiscal model to determine the quality of API coverage across different regions.
+
 - **Goals:** 
    1. Determine key metrics for assessing API quality.
    2. Collect and preprocess data from various APIs.
@@ -42,4 +44,3 @@
 - **Enhancements:** With more time, I would explore advanced modeling techniques like machine learning to predict API quality.
 - **Expansion:** Expand the study to include more regions or different types of APIs.
 - **Automation:** Develop an automated system for continuous monitoring and analysis of API quality.
-
