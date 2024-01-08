@@ -57,6 +57,20 @@ Provide valuable insights into bike-sharing and points of interest data. It invo
 ![8](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/079ed144-1a7d-47e0-9b66-035868cb8e80)
 
 
+Mean Squared Error: 0.10430008876730193
+R-squared: -0.19739739051447214
+
+The results for the Random Forest Regression model are as follows:
+
+Mean Squared Error (MSE): Approximately 0.0064
+R-squared (R2): Approximately - 0.925
+
+This value is significantly lower than the MSE from the previous Linear Regression model. A lower MSE indicates that the Random Forest model's predictions are, on average, closer to the actual values. The MSE of approximately 0.0064 suggests that this model is a good fit for the data.
+
+The R-squared value is a measure of how well the model's predictions match the actual data. An R-squared of 0.9259 (or about 92.59%) is quite high, which means that approximately 92.59% of the variance in the dependent variable (usage) is predictable from the independent variables (total_bikes, poi_distance) in the model.
+
+This is a significant improvement over the Linear Regression model, which had a negative R-squared value. It indicates that the Random Forest model captures the relationships and patterns in the data much more effectively.
+In summary, the Random Forest Regression model shows both a low Mean Squared Error and a high R-squared value, indicating that it is a very effective model for predicting the target variable with the given features. It seems to capture the underlying relationships in the data much better than the Linear Regression model previously used.
 
 
 
