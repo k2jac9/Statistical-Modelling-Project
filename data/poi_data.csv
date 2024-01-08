@@ -1,0 +1,25 @@
+name,rating,latitude,longitude,coordinates
+Les Jardins du Palais Royal,4.5,48.864147,2.336372,
+Babylon Tours Paris,5.0,48.8569297790527,2.34120011329651,
+Paris City Vision,2.0,48.864025,2.332459,
+Cedric's Paris,5.0,48.86239,2.40083,
+Le Café Laurent,5.0,48.85476,2.33948,"{'latitude': 48.85476, 'longitude': 2.33948}"
+Au Plaisir,5.0,48.86454,2.341,"{'latitude': 48.86454, 'longitude': 2.341}"
+Café Blanc,4.5,48.8627362423863,2.339585,"{'latitude': 48.8627362423863, 'longitude': 2.339585}"
+Le P'tit Bistro,4.5,48.85755,2.34938,"{'latitude': 48.85755, 'longitude': 2.34938}"
+Pret A Manger,4.5,48.861758979729,2.34146017581224,"{'latitude': 48.861758979729, 'longitude': 2.34146017581224}"
+Grand Hôtel du Palais Royal,4.5,48.8631096,2.33779,"{'latitude': 48.8631096, 'longitude': 2.33779}"
+Colin Régis,4.5,48.86598,2.34457,"{'latitude': 48.86598, 'longitude': 2.34457}"
+L'Imprimerie,4.0,48.86413,2.3416,"{'latitude': 48.86413, 'longitude': 2.3416}"
+Le Bistrot des Halles,4.0,48.860105,2.346243,"{'latitude': 48.860105, 'longitude': 2.346243}"
+Restaurant Bachaumont,4.0,48.866122,2.345012,"{'latitude': 48.866122, 'longitude': 2.345012}"
+L'Avant Première,4.0,48.8663,2.3387,"{'latitude': 48.8663, 'longitude': 2.3387}"
+Aux Castelblangeois,4.0,48.86225,2.33939,"{'latitude': 48.86225, 'longitude': 2.33939}"
+La Brasserie du Louvre,4.0,48.86377,2.33469,"{'latitude': 48.86377, 'longitude': 2.33469}"
+Au Pied de Cochon,3.5,48.863719,2.343711,"{'latitude': 48.863719, 'longitude': 2.343711}"
+Bistrot Valois,3.5,48.86319,2.3381,"{'latitude': 48.86319, 'longitude': 2.3381}"
+Maison Rouge,3.5,48.8604393,2.346665,"{'latitude': 48.8604393, 'longitude': 2.346665}"
+Café Plume,3.5,48.862233,2.339744,"{'latitude': 48.862233, 'longitude': 2.339744}"
+Café du Pont Neuf,3.5,48.8587,2.34153,"{'latitude': 48.8587, 'longitude': 2.34153}"
+La Coopérative,3.5,48.86046,2.34223,"{'latitude': 48.86046, 'longitude': 2.34223}"
+Le Compas,3.5,48.8651886,2.3470299,"{'latitude': 48.8651886, 'longitude': 2.3470299}"

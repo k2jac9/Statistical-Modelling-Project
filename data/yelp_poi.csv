@@ -1,0 +1,101 @@
+station,usage,total_bikes,poi_name,poi_distance,poi_address
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,La Coïncidence,674.5838847008364,15 rue Mesnil
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Le Poincaré,796.3837457247423,22 avenue Raymond Poincaré
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,L'Astrance,1193.9057475548866,4 rue Beethoven
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Crêperie Framboise Passy-Trocadéro,1046.4233954289314,10 bd Delessert
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Sgabetti,581.1026607755947,15 rue Sablons
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Hiramatsu,867.9961201115074,52 rue de Longchamp
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Girafe,1013.5447681914775,1 place du Trocadéro
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Le Pergolèse,1071.6842920477702,40 rue Pergolèse
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Bon,646.7876338266634,25 rue de la Pompe
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Le Chalet,337.5556365086247,63 rue de la Pompe
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,La Petite Tour,936.6360133730419,11 rue de la Tour
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Le Petit Rétro,736.370205183028,5 Rue Mesnil
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Frog XVI,922.1309260194633,110 bis avenue Kléber
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Le Passy,1038.234160979605,2 rue de Passy
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Musée Marmottan Monet,962.9223223608343,2 rue Louis Boilly
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Carette,877.1558472221258,4 place du Trocadéro
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Le Paris 16,484.3555993400418,18 rue des Belles Feuilles
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Corso,979.1628237952631,79 avenue Kléber
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Schwartz's Deli,764.1580671681827,7 avenue d'Eylau
+Benjamin Godard - Victor Hugo,0.9142857142857144,35,Café Lamartine,31.727779183528806,182 avenue Victor Hugo
+André Mazet - Saint-André des Arts,0.3018867924528302,53,L'Avant Comptoir,194.1463062267755,3 carrefour de l'Odéon
+André Mazet - Saint-André des Arts,0.3018867924528302,53,Chez Fernand,100.3874280354339,9 rue Christine
+André Mazet - Saint-André des Arts,0.3018867924528302,53,Fish la Boissonnerie,158.6823376252677,69 rue de Seine
+André Mazet - Saint-André des Arts,0.3018867924528302,53,Semilla,163.4605575684766,54 Rue Seine
+André Mazet - Saint-André des Arts,0.3018867924528302,53,Le Comptoir,202.79122481654176,9 carrefour de l'Odeon
+André Mazet - Saint-André des Arts,0.3018867924528302,53,Le Procope,83.96152451590636,13 rue de l'Ancienne Comédie
+André Mazet - Saint-André des Arts,0.3018867924528302,53,Ippudo Saint-Germain,120.2981880891589,14 rue Grégoire de Tours
+André Mazet - Saint-André des Arts,0.3018867924528302,53,Les Antiquaires,927.8432442582576,13 rue du Bac
+André Mazet - Saint-André des Arts,0.3018867924528302,53,Guy Savoy,383.0371824956357,Monnaie de Paris
+André Mazet - Saint-André des Arts,0.3018867924528302,53,Le Bistro du Périgord,623.6864304498889,71 rue Saint-Jacques
+André Mazet - Saint-André des Arts,0.3018867924528302,53,Le Bistrot d'Henri,389.55343424060015,16 rue Princesse
+André Mazet - Saint-André des Arts,0.3018867924528302,53,Huitrerie Régis,251.40326209689684,3 rue de Montfaucon
+André Mazet - Saint-André des Arts,0.3018867924528302,53,Le Christine,108.25419914334759,1 rue Christine
+André Mazet - Saint-André des Arts,0.3018867924528302,53,L'Epigramme,178.44848316881843,9 rue de l'Eperon
+André Mazet - Saint-André des Arts,0.3018867924528302,53,Huguette,160.37814712741118,81 rue de Seine
+André Mazet - Saint-André des Arts,0.3018867924528302,53,Ze Kitchen Galerie,208.58640369202567,4 rue des Grands Augustins
+André Mazet - Saint-André des Arts,0.3018867924528302,53,Fajitas,215.5131992514751,15 rue Dauphine
+André Mazet - Saint-André des Arts,0.3018867924528302,53,BREIZH Café Odéon | La Crêpe Autrement,241.94104069996703,1 rue de l'Odéon
+André Mazet - Saint-André des Arts,0.3018867924528302,53,Kodawari Ramen,122.61150023834466,29 rue Mazarine
+André Mazet - Saint-André des Arts,0.3018867924528302,53,La Grande Cremerie,102.8136917825328,8 rue Grégoire-de-Tours
+Faubourg Du Temple - Republique,0.5,38,L'Aller Retour,307.92717701385504,5 rue Charles François Dupuis
+Faubourg Du Temple - Republique,0.5,38,Inaro,277.62498298541186,38 rue René Boulanger
+Faubourg Du Temple - Republique,0.5,38,L'îlot,362.70310610468647,4 rue de la Corderie
+Faubourg Du Temple - Republique,0.5,38,Les Parigots,272.3360346779786,5 rue Château d'eau
+Faubourg Du Temple - Republique,0.5,38,The Beast,383.1873537548903,27 rue Meslay
+Faubourg Du Temple - Republique,0.5,38,La Marine,305.3956513545622,55bis quai de Valmy
+Faubourg Du Temple - Republique,0.5,38,Ober Mamma,539.4455224004607,107 boulevard Richard Lenoir
+Faubourg Du Temple - Republique,0.5,38,Chez Imogène,378.5713389529533,25 rue Jean Pierre Timbaud
+Faubourg Du Temple - Republique,0.5,38,Co Ba Saigon,217.50175971347534,48 boulevard du Temple
+Faubourg Du Temple - Republique,0.5,38,Lavomatic,222.12197654791112,30 rue René Boulanger
+Faubourg Du Temple - Republique,0.5,38,Robert et Louise,1056.0994539299286,64 rue Vieille du Temple
+Faubourg Du Temple - Republique,0.5,38,Aux Péchés Normands,46.55084980355358,9 rue du faubourg du Temple
+Faubourg Du Temple - Republique,0.5,38,Siseng,491.89442665286276,82 quai de Jemmapes
+Faubourg Du Temple - Republique,0.5,38,Ossek Garden,285.63902291901513,14 rue Rampon
+Faubourg Du Temple - Republique,0.5,38,Holybelly 5,510.5484779496841,5 rue Lucien Sampaix
+Faubourg Du Temple - Republique,0.5,38,Pain Vin Fromages,1119.304490169397,3 rue Geoffroy-l'Angevin
+Faubourg Du Temple - Republique,0.5,38,Soya,387.1245955406252,20 rue de la Pierre Levée
+Faubourg Du Temple - Republique,0.5,38,Du Pain et des Idées,402.7664007712672,34 rue Yves Toudic
+Faubourg Du Temple - Republique,0.5,38,Shake n' Smash,298.6884776242586,87 rue de Turbigo
+Faubourg Du Temple - Republique,0.5,38,L'Epicerie Musicale,311.95597342901556,55 bis quai de Valmy
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Le Comptoir de la Gastronomie,1183.0595587559897,34 rue Montmartre
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Les Antiquaires,516.166236209099,13 rue du Bac
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Guy Savoy,286.2226006645267,Monnaie de Paris
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Galette Café,235.4755208562098,2 rue de l'Université
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Fish la Boissonnerie,294.1726516833999,69 rue de Seine
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Semilla,305.6413004610365,54 Rue Seine
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Le Calife,208.25073867355755,Port des Saints Pères
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Le Relais de l'Entrecôte,242.4433365817751,20 rue Saint Benoît
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Le Restaurant,31.29529513011397,13 rue des Beaux-Arts
+Beaux-Arts - Bonaparte,0.1052631578947368,19,L'Avant Comptoir,573.86285318389,3 carrefour de l'Odéon
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Le Bistro du Périgord,1055.2771826273977,71 rue Saint-Jacques
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Chez Fernand,399.4915774730591,9 rue Christine
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Le Bistrot d'Henri,488.558989238044,16 rue Princesse
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Le Pré aux Clercs,135.8954055370107,30 rue Bonaparte
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Eggs & Co,454.64181418400375,11 rue Bernard Palissy
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Ladurée,109.77371910188225,21 rue Bonaparte
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Huitrerie Régis,418.2373750717176,3 rue de Montfaucon
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Fajitas,395.3414846281806,15 rue Dauphine
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Au Pied de Fouet,159.89085428556436,3 rue Saint Benoît
+Beaux-Arts - Bonaparte,0.1052631578947368,19,Huguette,387.4805308719385,81 rue de Seine
+Toudouze - Clauzel,0.8,20,Pink Mamma,358.534355262584,20 bis rue de Douai
+Toudouze - Clauzel,0.8,20,Le Pantruche,244.70878462155056,3 rue Victor Massé
+Toudouze - Clauzel,0.8,20,Buvette Gastrothèque,129.04313475171372,28 rue Henri Monnier
+Toudouze - Clauzel,0.8,20,Les Canailles,202.58640009629042,25 Rue La Bruyère
+Toudouze - Clauzel,0.8,20,Maison Landemaine,215.7364756336705,26 rue des Martyrs
+Toudouze - Clauzel,0.8,20,ASPIC,462.1436778304114,24 rue de la Tour d'Auvergne
+Toudouze - Clauzel,0.8,20,le 23 Clauzel,14.966032911599742,23 rue Clauzel
+Toudouze - Clauzel,0.8,20,La Table des Anges,277.30095089112405,66 rue des Martyrs
+Toudouze - Clauzel,0.8,20,Le Bon Georges,182.62890416933155,45 rue Saint-Georges
+Toudouze - Clauzel,0.8,20,Al Caratello,669.2126445115363,5 rue Audran
+Toudouze - Clauzel,0.8,20,The Frog & Underground,1005.0451514809832,176 rue Montmartre
+Toudouze - Clauzel,0.8,20,Puce,236.57400196392376,1 rue Chaptal
+Toudouze - Clauzel,0.8,20,Café Marlette,209.5135564299869,51 rue des Martyrs
+Toudouze - Clauzel,0.8,20,Bouillon Pigalle,373.22221448942213,22 boulevard Clichy
+Toudouze - Clauzel,0.8,20,Ito Izakaya,221.76189564128333,4 rue Pierre Fontaine
+Toudouze - Clauzel,0.8,20,Clasico Argentino,122.6823953807368,22 rue Henry Monnier
+Toudouze - Clauzel,0.8,20,The Hardware Société,997.4985077193842,10 rue Lamarck
+Toudouze - Clauzel,0.8,20,Sizin,176.35933561797802,47 rue Saint-Georges
+Toudouze - Clauzel,0.8,20,Pi Hour,189.1534102036224,32 rue de la Rochefoucauld
+Toudouze - Clauzel,0.8,20,Chez Delphine,230.2005028817933,48 rue Saint-Georges
