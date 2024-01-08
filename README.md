@@ -54,7 +54,6 @@ Provide valuable insights into bike-sharing and points of interest data. It invo
 ![4](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/c3f834ac-7ac4-46ce-8ec0-4435f8ad6a71)
 ![5](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/cb8018ab-9f24-420c-823d-2c8b3b6f0515)
 ![6](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/f654b9f9-e274-4ea0-b341-94ddc96845e8)
-![8](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/079ed144-1a7d-47e0-9b66-035868cb8e80)
 
 
 Mean Squared Error: 0.10430008876730193
@@ -72,7 +71,7 @@ The R-squared value is a measure of how well the model's predictions match the a
 This is a significant improvement over the Linear Regression model, which had a negative R-squared value. It indicates that the Random Forest model captures the relationships and patterns in the data much more effectively.
 In summary, the Random Forest Regression model shows both a low Mean Squared Error and a high R-squared value, indicating that it is a very effective model for predicting the target variable with the given features. It seems to capture the underlying relationships in the data much better than the Linear Regression model previously used.
 
-
+![8](https://github.com/k2jac9/Final-Project-Statistical-Modelling/assets/5405628/079ed144-1a7d-47e0-9b66-035868cb8e80)
 
 
 
