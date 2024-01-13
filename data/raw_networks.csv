@@ -145,7 +145,6 @@ company,href,id,name,location.city,location.country,location.latitude,location.l
 ['Comunicare S.r.l.'],/v2/networks/sellero,sellero,Sellero,Sellero,IT,46.06304765446406,10.353434085845947,https://www.bicincitta.com/frmLeStazioni.aspx?ID=85,,,,
 ['JCDecaux'],/v2/networks/lundahoj,lundahoj,Lundahoj,Lund,SE,55.7046601,13.1910073,https://developer.jcdecaux.com,,Open Licence,https://developer.jcdecaux.com/#/opendata/licence,
 ['Comunicare S.r.l.'],/v2/networks/ugento,ugento,Ugento,Ugento,IT,39.9273518,18.1582962,https://www.bicincitta.com/frmLeStazioni.aspx?ID=103,,,,
-['JCDecaux'],/v2/networks/tusbic,tusbic,Tusbic,Santander,ES,43.46230569999999,-3.8099803,https://developer.jcdecaux.com,,Open Licence,https://developer.jcdecaux.com/#/opendata/licence,
 ['JCDecaux'],/v2/networks/velam,velam,Vélam,Amiens,FR,49.894067,2.295753,https://developer.jcdecaux.com,,Open Licence,https://developer.jcdecaux.com/#/opendata/licence,
 ['JCDecaux'],/v2/networks/bysykkel-lillestrom,bysykkel-lillestrom,Bysykkel,Lillestrøm,NO,59.9559696,11.0503785,https://developer.jcdecaux.com,,Open Licence,https://developer.jcdecaux.com/#/opendata/licence,
 ['JCDecaux'],/v2/networks/velocite-mulhouse,velocite-mulhouse,VéloCité,Mulhouse,FR,47.750839,7.335888,https://developer.jcdecaux.com,,Open Licence,https://developer.jcdecaux.com/#/opendata/licence,
@@ -551,7 +550,6 @@ company,href,id,name,location.city,location.country,location.latitude,location.l
 ['Nextbike GmbH'],/v2/networks/westbike-hueckelhoven,westbike-hueckelhoven,westBike,Hückelhoven,DE,51.0529,6.21933,,,,,
 ['Nextbike GmbH'],/v2/networks/westbike-wegberg,westbike-wegberg,westBike,Wegberg,DE,51.1427,6.2813,,,,,
 ['Nextbike GmbH'],/v2/networks/edeka-gruenheide-mark,edeka-gruenheide-mark,EDEKA Grünheide,Grünheide (Mark),DE,52.4247,13.8203,,,,,
-['Nextbike GmbH'],/v2/networks/nextbike-erlangen,nextbike-erlangen,nextbike Erlangen,Erlangen,DE,49.589,11.0065,,,,,
 ['Nextbike GmbH'],/v2/networks/nomago-gorizia,nomago-gorizia,GO2GO - Gorizia,Gorizia,IT,45.9469,13.6208,,,,,
 ['Mainzer Verkehrsgesellschaft mbH'],/v2/networks/mvg-meinrad-nextbike-mainz,mvg-meinrad-nextbike-mainz,meinRad MVG Mainz,Mainz,DE,45.9469,13.6208,,,,,
 ['Nextbike GmbH'],/v2/networks/veturilo-nextbike-warsaw,veturilo-nextbike-warsaw,VETURILO 3.0,Warsaw,PL,52.2581,20.9949,,,,,
@@ -616,7 +614,6 @@ company,href,id,name,location.city,location.country,location.latitude,location.l
 ['Donkey Republic'],/v2/networks/yverdon-les-bains,yverdon-les-bains,Donkey Republic Yverdon-les-Bains,Yverdon-les-Bains,CH,46.7788,6.6414,,https://stables.donkey.bike/api/public/gbfs/2/donkey_yverdon-les-bains/gbfs.json,,,
 ['Ecovelo'],/v2/networks/petites-reines,petites-reines,Les Petites Reines,Les Sables d'Olonne,FR,46.4971,-1.7805,,https://api.gbfs.v1.ecovelo.mobi/gbfs/petitesreines,,,True
 ['Ecovelo'],/v2/networks/cyclolibre,cyclolibre,CYCLOlibre,Carcassonne,FR,43.2127,2.3492,,https://api.gbfs.v1.ecovelo.mobi/gbfs/cyclolibre,,,True
-"['UTE TIER', 'Mobility SE', 'Empresa Sagales SA GETXOBIZI']",/v2/networks/getxobizi,getxobizi,Getxobizi,Getxo,ES,43.3476,-3.0088,,,,,
 ['Fifteen SAS'],/v2/networks/velomodalis,velomodalis,Vélo Modalis,Ligne TER Royan - Angoulême,FR,45.7,-0.33,,,,,
 ['UTE Bizkaibizi'],/v2/networks/bizkaibizi-bilbao,bizkaibizi-bilbao,Bizkaibizi,Bilbao,ES,43.2617,-2.9491,,,,,
 ['UTE Bizkaibizi'],/v2/networks/bizkaibizi-erandio,bizkaibizi-erandio,Bizkaibizi,Erandio,ES,43.3029,-2.9756,,,,,
@@ -757,3 +754,5 @@ company,href,id,name,location.city,location.country,location.latitude,location.l
 "['DOCOMO BIKE SHARE, INC.']",/v2/networks/docomo-cycle-nara,docomo-cycle-nara,Docomo Bike Share Nara,奈良県 (Nara),JP,34.6839,135.8087,https://ckan.odpt.org/en/dataset/c_bikeshare_gbfs-d-nationwide-bikeshare,https://api-public.odpt.org/api/v4/gbfs/docomo-cycle/gbfs.json,Creative Commons Attribution 4.0 International (CC BY 4.0),https://creativecommons.org/licenses/by/4.0/,
 ['Daejeon Metropolitan City'],/v2/networks/tashu,tashu,Tashu,대전 (Daejeon),KR,36.349,127.3848,,,,,
 "['YouBike Co., Ltd.']",/v2/networks/youbike-putian-city,youbike-putian-city,YouBike,莆田市 (Putian City),CN,25.4504,119.0126,,,,,
+['Fifteen SAS'],/v2/networks/velozef,velozef,VéloZef,Brest,FR,48.3905,-4.48732,https://www.data.gouv.fr/fr/datasets/velos-a-assistance-electrique-en-libre-service-velozef-sur-brest/,https://api.prod.partners-fs37hd8.zoov.eu/gbfs/2.2/brest/en/gbfs.json?&key=OGNhZDNjMDQtYTA0Yi00NzU2LWE0MTItOGJlYzE1Y2E4NGEx,,,
+['UTE BICIS SANTANDER'],/v2/networks/tuebici,tuebici,TUeBICI,Santander,ES,43.46230569999999,-3.8099803,,,,,
